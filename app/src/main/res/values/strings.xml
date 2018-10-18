@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flickr App</string>
+    <string name="ed_hint_search">Flickr Image Search...</string>
+    <string name="api_key">96358825614a5d3b1a1c3fd87fca2b47</string>
+</resources>
